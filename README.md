@@ -1,5 +1,5 @@
-# Razroo TypeScript NPM Package Boilerplate
-To be used with all new Razroo NPM repos
+# Razroo NPM Starter
+Includes Typescript 
 
 ## Easy way to use this boilerplate ##
 
@@ -8,4 +8,6 @@ To be used with all new Razroo NPM repos
 3. Run git init 
 4. Push to repo of choice. 
 
-^ BANG! Good to go 
+## To build ##
+`npm run build`
+`npm publish`
